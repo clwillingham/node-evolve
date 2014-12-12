@@ -4,7 +4,7 @@
 # Welcome to node-evolve!                          #
 # please begin a project by requiring the library  #
 ####################################################
-{mutable,mutate} = require 'evolve'
+{mutable,mutate} = require '../lib/evolve'
 
 #########################################################################
 # We will show in this quickstart how to evolve a simple, wont-do-many- #

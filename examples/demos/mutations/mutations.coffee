@@ -1,5 +1,5 @@
 #!/usr/bin/env coffee
-evolve = require 'evolve'
+evolve = require '../../../lib/evolve'
 mutation_rate = 0.001
 foo = 0.25
 aaa = (a) -> a
